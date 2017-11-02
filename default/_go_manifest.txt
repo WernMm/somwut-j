@@ -1,0 +1,11 @@
+api_version: go1
+3d719c0a_b1f87a2a_c3d86b08_6270f90f_97e43bc6 appengine.go
+a3d9bb72_f954fee9_f3c832a1_997a464d_8653b46f github.com/gorilla/context/context.go
+0c6ecc96_cadf98de_6d15e9fa_d91a74ab_7fda12d3 github.com/gorilla/context/doc.go
+35afff72_5e033f6b_76c37014_c42cbbd3_44a7cb74 github.com/gorilla/mux/doc.go
+75918492_679a0952_7ffa5292_52119cee_509cb9af github.com/gorilla/mux/mux.go
+db0ae96f_ca0b8d61_caa9fb64_6d9fa633_8c9a1a9b github.com/gorilla/mux/regexp.go
+64defbac_29a44666_f9dfdcea_a547a356_54236d0b github.com/gorilla/mux/route.go
+2e8cdf37_47d1397f_43da94e3_af3e2a60_b7dd6daa local.go
+6b3a4b8c_e369b60b_314d38a3_10871e07_f8b17fb0 somwut-j/myserver/myserver.go
+b63b7c63_2057b6a5_009bb2ef_82fce7f4_b16b6725 somwut-j/portfolio/portfolio.go

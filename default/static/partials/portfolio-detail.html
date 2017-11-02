@@ -1,0 +1,29 @@
+<div class='container'>
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1 project-detail">
+    <div class='row'>
+      <div class='col-md-12'>
+        <a ng-href="#portfolio/{{project.Id}}">
+          <h3 class="title">{{project.Title}}</h3>
+        </a>
+      </div>
+      <div class='col-md-4'>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8">
+        <img ng-src='/img/portfolio/{{project.ImgPath}}' class='img-responsive' />
+      </div>
+    </div>
+    <br/>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="description" ng-bind-html="project.Description">
+        </div>
+        <span>{{project.ShortDescription}}</span><br/>
+        <span><b>Year: </b>{{project.Year}}</span>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>

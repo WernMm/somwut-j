@@ -1,0 +1,86 @@
+body {
+	font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Montserrat Alternates',Helvetica,sans-serif;
+}
+a.logo {
+	text-decoration: none;
+	color: white;
+}
+.myheader {
+	background-color: #FAAD3A;
+	color: white;
+	padding: 15px 15px;
+}
+.chunkProject {
+	margin-top: 10px;
+}
+
+.project {
+	margin-bottom: 20px;
+	padding: 0px 20px 10px 20px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+}
+
+.description {
+	margin-top: 5px;
+}
+
+.title {
+	color: #F99909;
+	text-decoration: none;
+}
+
+.project-detail {
+	margin-bottom: 48px;
+}
+
+.navbar-default {
+  background-color: transparent;
+  border-color: transparent;
+	font-family: 'Montserrat Alternates',Helvetica,sans-serif;
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: white;
+}
+.navbar-default .navbar-nav>li>a:hover{
+  color: #ccc;
+}
+.jumbotron {
+	margin-bottom: 15px;
+}
+
+.aboutme {
+	font-size: 12px;
+}
+span.title {
+	font-family: 'Montserrat Alternates',Helvetica,sans-serif;	
+}
+
+.info_field, .info_value {
+	padding-bottom: 5px;
+	font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+}
+
+.info_field {
+	color: #444;
+	font-weight: bold;
+}
+
+
+.quote {
+	font-family: 'Montserrat Alternates',Helvetica,sans-serif;	
+	color: #F99909;
+	text-align: center;
+	font-size: 24px;
+}
+
+.quote-by {
+	font-style: italic;
+	text-align: right;
+}
