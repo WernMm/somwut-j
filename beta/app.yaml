@@ -1,0 +1,10 @@
+service: beta
+runtime: php55
+api_version: 1
+#threadsafe: true
+
+handlers:
+- url: /hello
+  script: helloworld.php
+- url: /cti
+  script: cti.php

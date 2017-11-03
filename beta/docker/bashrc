@@ -1,0 +1,5 @@
+ alias containerip="hostname -I"
+
+ #alias dev_appserver='dev_appserver.py -A $GCLOUD_PROJECTID --host=0.0.0.0 app.yaml'
+ alias dev_appserver='dev_appserver.py --admin_host=0.0.0.0 --host=0.0.0.0 app.yaml --php_executable_path /usr/bin/php'
+ containerip
